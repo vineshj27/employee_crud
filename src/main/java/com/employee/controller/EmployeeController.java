@@ -56,7 +56,7 @@ public class EmployeeController {
 		return es.getByshift(plt);
 	}
 	
-	
+	@PostMapping(path="/")
 	
 	
 	
